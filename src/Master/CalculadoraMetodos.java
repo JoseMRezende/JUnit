@@ -1,6 +1,6 @@
 package Master;
 
-public class Calculadora {
+public class CalculadoraMetodos {
 
     //Método de Soma
     public int somar(int a, int b) {

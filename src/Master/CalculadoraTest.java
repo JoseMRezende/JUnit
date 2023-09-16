@@ -1,12 +1,10 @@
 package Master;
 
-import Master.Calculadora;
-
 public class CalculadoraTest {
     public static void main(String[] args) {
 
         //Iniciando a classe Calculadora
-        Calculadora calc = new Calculadora();
+        CalculadoraMetodos calc = new CalculadoraMetodos();
 
         //Cenario de Teste 1: Soma de dois valores
         int soma1 = calc.somar(3,7);
