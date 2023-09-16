@@ -1,3 +1,5 @@
+package Master;
+
 public class Calculadora {
 
     //Método de Soma
