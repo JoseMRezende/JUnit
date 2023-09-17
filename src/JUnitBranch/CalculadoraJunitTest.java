@@ -65,6 +65,7 @@ public class CalculadoraJunitTest {
         int sub4 = calc.subtrair(35, -7);
         Assertions.assertEquals(28,sub4);
     }
+    // Report: Erro Junit indica valor atual = 42 e o valor esperado é = 28
 
     //////////////////////////////////////////////////////////////////////////////////////
 
@@ -95,6 +96,7 @@ public class CalculadoraJunitTest {
         int div4 = calc.divicao(120, -50);
         Assertions.assertEquals(70,div4);
     }
+    // Report: Erro Junit indica valor atual = -2 e o valor esperado é = 70
 
     //////////////////////////////////////////////////////////////////////////////////////
 
