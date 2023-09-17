@@ -1,6 +1,6 @@
 # TESTES UNITÁRIOS 
 
-## DESCRIÇÃO 
+## Descrição
 
 Repositorio com testes unitarios em um projeto de calculadora no qual todos os médotos são testados com e sem JUnit.
 
@@ -19,12 +19,12 @@ trabalho do desenvolvedor.
 <img src="https://github.com/JoseMRezende/JUnit/assets/112033771/e63b9f74-b145-455e-8d35-18ad67569eee" width="300px" />
 </div>
 
-## Ferramentas
+## Ferramentas / Linguagens
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## IMAGENS
+## Imagens
 
 ### 1.
 <div>
