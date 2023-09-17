@@ -15,7 +15,23 @@ Apesar de o JUnit ser bem simples de se utilizar, ele traz um ambiente completo 
 testes unitários e dos testes de regressão em códigos escritos na linguagem Java, facilitando o
 trabalho do desenvolvedor.
 
+<div>
+<img src="https://github.com/JoseMRezende/JUnit/assets/112033771/e63b9f74-b145-455e-8d35-18ad67569eee" width="300px" />
+</div>
+
 ## Ferramentas
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+## IMAGENS
+
+### 1.
+<div>
+<img src="https://github.com/JoseMRezende/JUnit/assets/112033771/19465b94-b5ed-4003-8869-ef3994c29de4" width="400px" />
+</div>
+
+### 2.
+<div>
+<img src="https://github.com/JoseMRezende/JUnit/assets/112033771/7ee523dc-dc0b-4ac5-925d-2b9cf3e0ef2c" width="400px" />
+</div>
