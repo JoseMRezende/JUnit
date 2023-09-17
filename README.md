@@ -28,10 +28,10 @@ trabalho do desenvolvedor.
 
 ### 1.
 <div>
-<img src="https://github.com/JoseMRezende/JUnit/assets/112033771/19465b94-b5ed-4003-8869-ef3994c29de4" width="400px" />
+<img src="https://github.com/JoseMRezende/JUnit/assets/112033771/19465b94-b5ed-4003-8869-ef3994c29de4" width="500px" />
 </div>
 
 ### 2.
 <div>
-<img src="https://github.com/JoseMRezende/JUnit/assets/112033771/7ee523dc-dc0b-4ac5-925d-2b9cf3e0ef2c" width="400px" />
+<img src="https://github.com/JoseMRezende/JUnit/assets/112033771/7ee523dc-dc0b-4ac5-925d-2b9cf3e0ef2c" width="500px" />
 </div>
