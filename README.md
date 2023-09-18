@@ -2,7 +2,8 @@
 
 ## Descrição
 
-Repositorio com testes unitarios em um projeto de calculadora no qual todos os médotos são testados com e sem JUnit.
+Repositorio com testes unitarios em um projeto de calculadora no qual todos os médotos são testados com e sem JUnit.</br>
+Qualidade e Testes de Software - Análise e Desenvolvimento de Sistemas - FACENS
 
 ## JUnit
 
