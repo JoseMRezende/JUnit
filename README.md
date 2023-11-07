@@ -51,3 +51,11 @@ colaboração no desenvolvimento de software.</br>
 ## Código Documentado
 
 ### 1.
+<div>
+<img src="https://github.com/JoseMRezende/JUnit/assets/112033771/2e2a7a55-0f40-4efa-a6a1-b94222a65fe3" width="500px" />
+</div>
+
+### 2.
+<div>
+<img src="https://github.com/JoseMRezende/JUnit/assets/112033771/241ee111-60a5-4737-8524-c3dfc0536f7e" width="500px" />
+</div>
