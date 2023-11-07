@@ -1,10 +1,11 @@
 package Master;
 
 /**
+ * @author José Marcos
+ * @version 3.2
+ * @since Release 3.0 da aplicação
+ *
  * Esta classe representa uma calculadora simples que realiza operações de soma, subtração, divisão e multiplicação.
- * Autor: José Marcos
- * Lançamento: 18/09/2023
- * Versão: 3.1
  */
 public class CalculadoraMetodos {
 
