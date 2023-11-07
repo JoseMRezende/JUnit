@@ -36,3 +36,26 @@ trabalho do desenvolvedor.
 <div>
 <img src="https://github.com/JoseMRezende/JUnit/assets/112033771/7ee523dc-dc0b-4ac5-925d-2b9cf3e0ef2c" width="500px" />
 </div>
+
+## Documentação
+
+### Explicação
+
+A documentação em código é uma prática essencial para melhorar a qualidade do software, acelerar o desenvolvimento, facilitar a colaboração e garantir que o conhecimento sobre o código não seja perdido à medida que o projeto evolui.</br>
+É uma parte fundamental da engenharia de software que contribui para um desenvolvimento mais eficiente e eficaz.</br>
+Um ponto importante é que a abordagem para documentação varia amplamente de acordo com a linguagem e a comunidade de desenvolvedores. Algumas linguagens oferecem suporte integrado para
+documentação, enquanto outras dependem de convenções e ferramentas externas. Independentemente da linguagem, a documentação é uma prática importante para facilitar a compreensão, manutenção e
+colaboração no desenvolvimento de software.</br>
+
+
+## Código Documentado
+
+### 1.
+<div>
+<img src="https://github.com/JoseMRezende/JUnit/assets/112033771/2e2a7a55-0f40-4efa-a6a1-b94222a65fe3" width="500px" />
+</div>
+
+### 2.
+<div>
+<img src="https://github.com/JoseMRezende/JUnit/assets/112033771/241ee111-60a5-4737-8524-c3dfc0536f7e" width="500px" />
+</div>
