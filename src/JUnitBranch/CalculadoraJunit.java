@@ -2,6 +2,9 @@ package JUnitBranch;
 
 /**
  * Esta classe representa uma calculadora simples que realiza operações de soma, subtração, divisão e multiplicação.
+ * Autor: José Marcos
+ * Lançamento: 18/09/2023
+ * Versão: 3.0
  */
 public class CalculadoraJunit {
 
